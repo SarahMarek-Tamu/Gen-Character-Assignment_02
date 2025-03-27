@@ -21,7 +21,7 @@
   <h3 align="center">Fairy Character Generative Design Process </h3>
 
   <p align="center">
-    This project explores a generative creative process to design a fairy character through iteration and combining variations of key elements based both in scientific patterns in nature and children's films. 
+    This project explores a generative creative process to design a fairy character through iteration and combining variations of key elements based both in scientific patterns in nature. 
     <br />
     <br />
     <a >Sarah Marek</a>
