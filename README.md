@@ -18,7 +18,7 @@
 <div align="center">
   </a>
 
-  <h3 align="center">Fairy Character Generative Design Process </h3>
+  <h3 align="center">Fairy Character Design Process </h3>
 
   <p align="center">
     This project explores a generative creative process to design a fairy character through iteration and combining variations of key elements based both in scientific patterns in nature. 
